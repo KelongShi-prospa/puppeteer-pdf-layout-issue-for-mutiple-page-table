@@ -1,0 +1,27 @@
+{
+  "name": "puppeteer-pdf-layout-issue-for-mutiple-page-table",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "debug": "~2.6.9",
+    "express": "~4.17.3",
+    "ejs": "~3.1.7",
+    "http-errors": "~2.0.0",
+    "puppeteer": "^13.4.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KelongShi-prospa/puppeteer-pdf-layout-issue-for-mutiple-page-table.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KelongShi-prospa/puppeteer-pdf-layout-issue-for-mutiple-page-table/issues"
+  },
+  "homepage": "https://github.com/KelongShi-prospa/puppeteer-pdf-layout-issue-for-mutiple-page-table#readme"
+}
